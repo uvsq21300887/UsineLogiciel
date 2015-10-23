@@ -18,18 +18,18 @@ Les environnements de développement intégrés sont souvent composés :
 -	D’un éditeur de texte permettant une indentation spécifique, coloration et complétion automatique.
 -	Plusieurs fonctions : compilation, débogage.
 -	Automatisation de la compilation et de la gestion de projet.
--	D’outils de test unitaire pour verifié le code de facon systematique.
+-	D’outils de test unitaire pour verifier le code de facon systématique.
 -	D’outils de gestion de version permettant le travail collaboratif entre plusieurs programmeurs. (Subversion, Git)
 -	Outils permettant la génération de documentation (JavaDoc)
 
 
-# Présentation des Outils pouvant composer un IDE
+# Présentation des outils pouvant composer un IDE
 Un IDE permet la réalisation de projets simples, mais peut étendre ses possibilités de création et se complexifier avec d'  autres outils.
 
 ## Les bases de données
 Certains IDE permettent par exemple l'intégration d'outils permettant la manipulation de bases de données. 
 
-# Presentation d'IDE sur serveur
+# Présentation d'IDE sur serveur
 Les IDE installés sur serveurs permettent la programmation à partir de n’importe quelle machine. Ils réclament peu de ressources, simplifient le travail collaboratif et la configuration.
 Voici la présentation de deux d'entre eux, on priviligera des IDE supportant JAVE J2E.
 
