@@ -5,7 +5,8 @@ Projet de Stephane Lopes M2 DS
 Dans ce wiki, nous allons vous parler d’IDE et tenter d’en expliquer le fonctionnement en vous en présentant quelques-uns.
 
 ## Environnement de dévelopement ou IDE
-IDE signifie en anglais Integrated Development Environment. C’est donc un environnement de développement intégré conçu pour proposer les outils nécessaires aux programmeurs afin d’augmenter leur productivité en diminuant le temps passé à basculer entre les différentes taches.
+IDE signifie en anglais Integrated Development Environment. 
+C’est un environnement de développement intégré conçu pour proposer les outils nécessaires aux programmeurs afin d’augmenter leur productivité en diminuant le temps passé à basculer entre les différentes taches.
 Une partie des activités est donc automatisée et les opérations sont simplifiées.
 Ces outils sont prévus pour être utilisés ensemble et sont donc interconnectés.
 L’IDE assiste son utilisateur dans toutes les étapes du développement logiciel : définition, conception, programmation, test et maintenance.
