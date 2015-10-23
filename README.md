@@ -64,6 +64,7 @@ C'  est un outils qui se renouvelle sans cesse ( exemple ajout de fonctionnalit�
 Il possède un lien avec les répertoires GitHub et BitBucket et a été conçu pour programmer en Java Script, même s’il peut supporter plusieurs autres langages.    
 Il permet l’ajout de plugins et on compte parmi ses outils intégrés le débogage d’applications Node.   
 Il est possible de réaliser des tests et un déploiement sur le cloud.    
+L'un des avantages est son interface tres intuitive qui permet un repérage des différentes parties de chaque utilisateurs et son mini chat qui permet une communication en direct. 
 
 Cependant, il ne propose pas la complétion du code et est peu intuitif en ce qui concerne Java J2EE.   
 
