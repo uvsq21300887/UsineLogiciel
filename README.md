@@ -41,7 +41,7 @@ Il permet le dépôt et est compatible avec les commandes GIT.
 Codenvy propose la collaboration en temps réel avec des espaces de travail provisoires accessibles par plusieurs utilisateurs.
 Il autorise le travail sur un mini Shell mais ne propose aucun ssh.
 ### Lien de l'outils
-* [Condevy](https://codenvy.com/)
+* [Codenvy](https://codenvy.com/)
 
 ## Cloud9
 Il possède un lien avec les répertoires GitHub et BitBucket et a été conçu pour programmer en Java Script, même s’il peut supporter plusieurs autres langages.
