@@ -53,4 +53,15 @@ Cependant, il ne propose pas la complétion du code et est peu intuitif en ce qu
 ### Lien de l'outils
 * [Cloud9](https://c9.io/)
 
+## Voir aussi
+### IDE Proprietaire
+* MAC OS X Seulement : [XCode](https://developer.apple.com/xcode/)
+* Windows Seulement : [Visual Studio](https://www.visualstudio.com/)
+### IDE Libre
+* [NetBeans](https://netbeans.org/)
+* [Eclipse](https://eclipse.org/home/index.php)
+### IDE sur le Cloud
+* [Codeanywhere](https://codeanywhere.com/)
+
+
 
