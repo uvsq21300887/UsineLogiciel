@@ -35,7 +35,8 @@ Voici la présentation de deux d'entre eux, on priviligera des IDE supportant JA
 
 ## Codenvy
 
-Créée en Janvier 2013 Codenvy est une plateforme à base de conteneurs dont le but est d'éliminer la nécessité pour les développeurs de configurer ou maintenir des environnements de développement locaux ou à base de VM pour leurs projets.
+Créée en Janvier 2013 Codenvy est une plateforme à base de conteneurs dont le but est d'éliminer la nécessité pour les développeurs de configurer ou maintenir des environnements de développement locaux ou à base de VM pour leurs projets.    
+
 Principaux éléments : 
 
 - Un IDE
