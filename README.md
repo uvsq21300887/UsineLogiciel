@@ -59,6 +59,7 @@ Il autorise le travail sur un miniShell mais ne propose aucun ssh.
 ## Cloud9
 
 Cloud9 est un outil sous GLP v3 (dépôt GitHub) pensé notamment pour les adeptes de Node.js, il est très apprecié par les developpeurs Web.   
+L'  objectif principal de Cloud9 est de permettre un travail collaboratif permettant une édition multiple en temps réel.    
 C'  est un outils qui se renouvelle sans cesse ( exemple ajout de fonctionnalités comme le déploiement sur Azure Websites).  
 Il possède un lien avec les répertoires GitHub et BitBucket et a été conçu pour programmer en Java Script, même s’il peut supporter plusieurs autres langages.    
 Il permet l’ajout de plugins et on compte parmi ses outils intégrés le débogage d’applications Node.   
