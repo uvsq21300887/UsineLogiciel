@@ -5,20 +5,27 @@ Projet de Stephane Lopes M2 DS
 Dans ce wiki, nous allons vous parler d’IDE et tenter d’en expliquer le fonctionnement en vous en présentant quelques-uns.
 
 ## Environnement de dévelopement ou IDE
-IDE signifie en anglais Integrated Development Environment. C’est donc un environnement de développement intégré conçu pour proposer les outils nécessaires aux programmeurs afin d’augmenter leur productivité. 
+IDE signifie en anglais Integrated Development Environment. C’est donc un environnement de développement intégré conçu pour proposer les outils nécessaires aux programmeurs afin d’augmenter leur productivité en diminuant le temps passé à basculer entre les différentes taches.
 Une partie des activités est donc automatisée et les opérations sont simplifiées.
 Ces outils sont prévus pour être utilisés ensemble et sont donc interconnectés.
 L’IDE assiste son utilisateur dans toutes les étapes du développement logiciel : définition, conception, programmation, test et maintenance.
 Ils permettent de développer dans un ou plusieurs langages donnés.
 
-## Composition d'un IDE
+## Outils inclus au minimum dans un IDE
 Les environnements de développement intégrés sont souvent composés :
 -	D’une interface graphique fluide et intuitive contribuant à faire gagner du temps.
--	D’un éditeur de texte permettant une indentation spécifique.
--	Plusieurs fonctions : compilation, débogage, édition de liens. 
--	D’outils de test.
--	D’outils de gestion de version permettant le travail collaboratif entre plusieurs programmeurs.
-Un IDE permet la réalisation de projets simples, mais peut étendre ses possibilités de création et se complexifier avec les fonctionnalités qu’il propose.
+-	D’un éditeur de texte permettant une indentation spécifique, coloration et complétion automatique.
+-	Plusieurs fonctions : compilation, débogage.
+-	Automatisation de la compilation et de la gestion de projet.
+-	D’outils de test unitaire pour verifié le code de facon systematique.
+-	D’outils de gestion de version permettant le travail collaboratif entre plusieurs programmeurs. (Subversion, Git)
+-	Outils permettant la génération de documentation (JavaDoc)
+
+
+# Présentation des Outils pouvant composer un IDE
+Un IDE permet la réalisation de projets simples, mais peut étendre ses possibilités de création et se complexifier avec d'  autres outils.
+
+## Les bases de données
 Certains IDE permettent par exemple l'intégration d'outils permettant la manipulation de bases de données. 
 
 # Presentation d'IDE sur serveur
