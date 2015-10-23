@@ -31,17 +31,28 @@ Certains IDE permettent par exemple l'intégration d'outils permettant la manipu
 
 # Présentation d'IDE sur serveur
 Les IDE installés sur serveurs permettent la programmation à partir de n’importe quelle machine. Ils réclament peu de ressources, simplifient le travail collaboratif et la configuration.
-Voici la présentation de deux d'entre eux, on priviligera des IDE supportant JAVE J2E.
+Voici la présentation de deux d'entre eux, on priviligera des IDE supportant JAVA J2E.
 
 ## Codenvy
-Il faut donc créer un compte pour accéder à son espace de travail.
-Il permet le support de plusieurs langages notamment JAVA J2EE.
-Il permet la complétion et le débogage du code.
-Il permet le dépôt et est compatible avec les commandes GIT.
-Codenvy propose la collaboration en temps réel avec des espaces de travail provisoires accessibles par plusieurs utilisateurs.
-Il autorise le travail sur un mini Shell mais ne propose aucun ssh.
+    Créée en Janvier 2013 Codenvy est une plateforme à base de conteneurs dont le but est d'éliminer la nécessité pour les développeurs de configurer ou maintenir des environnements de développement locaux ou à base de VM pour leurs projets.
+Principaux éléments : 
+
+- Un IDE
+- Un gestionnaire d'integration du code source
+- Des outils de débogage
+- Des Docker-based 
+
+###Fonctionnement de Codenvy
+
+Codenvy permet le support de plusieurs langages notamment JAVA J2EE.     
+Il permet la complétion et le débogage du code.    
+Il permet le dépôt et est compatible avec les commandes GIT.    
+De plus, Codenvy propose la collaboration en temps réel avec des espaces de travail provisoires accessibles par plusieurs utilisateurs.    
+Il autorise le travail sur un miniShell mais ne propose aucun ssh.    
+
+
 ### Lien de l'outils
-* [Codenvy](https://codenvy.com/)
+* [Condevy](https://codenvy.com/)
 
 ## Cloud9
 Il possède un lien avec les répertoires GitHub et BitBucket et a été conçu pour programmer en Java Script, même s’il peut supporter plusieurs autres langages.
@@ -64,6 +75,11 @@ Cependant, il ne propose pas la complétion du code et est peu intuitif en ce qu
 
 ### IDE sur le Cloud
 * [Codeanywhere](https://codeanywhere.com/)
+
+
+
+
+
 
 
 
