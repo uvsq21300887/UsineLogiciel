@@ -1,6 +1,6 @@
 # UsineLogiciel
 Projet de Stephane Lopes M2 DS
--> Création du Wiki sur le fonctionnement d'un IDE et la presentation de quelque licence.
+- Création du Wiki sur le fonctionnement d'un IDE et la presentation de quelque licence.
 
 
 
