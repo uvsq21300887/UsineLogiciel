@@ -3,14 +3,6 @@ Projet de Stephane Lopes M2 DS
 - Création du Wiki sur le fonctionnement d'un IDE et la presentation de quelque licence.
 
 
-
-
-
-
-# Présentation d'IDE sur serveur
-Les IDE installés sur serveurs permettent la programmation à partir de n’importe quelle machine. Ils réclament peu de ressources, simplifient le travail collaboratif et la configuration.
-Voici la présentation de deux d'entre eux, on priviligera des IDE supportant JAVA J2E.
-
 ## Codenvy
 
 Créée en Janvier 2013 Codenvy est une plateforme à base de conteneurs dont le but est d'éliminer la nécessité pour les développeurs de configurer ou maintenir des environnements de développement locaux ou à base de VM pour leurs projets.    
