@@ -1,37 +1,18 @@
 # UsineLogiciel
+
 Projet de Stephane Lopes M2 DS
-- Création du Wiki (dans la partie wiki) sur le fonctionnement d'un IDE et la presentation de quelque licence.
+
+- Dans ce wiki, nous allons vous présenter brièvement la signification de la gestion de version 
 
 
-## Cloud9
+## La gestion de version 
 
-Cloud9 est un outil sous GLP v3 (dépôt GitHub) pensé notamment pour les adeptes de Node.js, il est très apprecié par les developpeurs Web.   
-L'  objectif principal de Cloud9 est de permettre un travail collaboratif permettant une édition multiple en temps réel.    
-C'  est un outils qui se renouvelle sans cesse ( exemple ajout de fonctionnalités comme le déploiement sur Azure Websites).  
-Il possède un lien avec les répertoires GitHub et BitBucket et a été conçu pour programmer en Java Script, même s’il peut supporter plusieurs autres langages.    
-Il permet l’ajout de plugins et on compte parmi ses outils intégrés le débogage d’applications Node.   
-Il est possible de réaliser des tests et un déploiement sur le cloud.    
-L'un des avantages est son interface tres intuitive qui permet un repérage des différentes parties de chaque utilisateurs et son mini chat qui permet une communication en direct. 
-
-Cependant, il ne propose pas la complétion du code et est peu intuitif en ce qui concerne Java J2EE.   
-
-### Lien de l'outils
-* [Cloud9](https://c9.io/)
-
-## Voir aussi
+La gestion de versions en anglais ‘version control’ ou ‘revision control’ consiste à enregistre l'évolution d'un fichier ou d'un ensemble de fichiers au cours du temps de manière à ce qu'on puisse rappeler une version antérieure d'un fichier à tout moment.
+ Essentiellement utilisée dans le domaine de la création de logiciels, elle concerne surtout la gestion des codes source. 
 
 
-### IDE Libre
-* [NetBeans](https://netbeans.org/)
-* [Eclipse](https://eclipse.org/home/index.php)
+### un logiciel de gestion de version
 
-### IDE sur le Cloud
-* [Codeanywhere](https://codeanywhere.com/)
-
-
-
-
-
-
+un logiciel de gestion de version (VCS en anglais pour Version Control System) et un logiciel qui permet de stocker un ensemble de fichiers en conservant la chronologie de toutes les modifications qui ont été effectuées dessus. il permet notamment de ramener le projet complet à un état précédent, de visualiser les changements au cours du temps, de voir qui a modifié quelque chose qui pourrait causer un problème , et plus encore. En Utilisant un VCS ,on peut facilement revenir à un état stable. 
 
 
